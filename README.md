@@ -40,11 +40,11 @@ HOW TO RUN
 
 MY INTERPRETATION
 
-- The performance metrics are relatively low which means that the model predictions don't yet match the actual delivery days very closely. However, this is expected because the model only used one subset of the full e-commerce dataset that i found online on kaggle ( i used the orders file only). Other related files in the dataset (e.g., customers, payments, shipments) likely contain additional information that would improve accuracy.
+- The performance metrics are relatively low which means that the model predictions don't yet match the actual delivery days very closely. However, this is expected because the model only used one subset of the full e-commerce dataset that i found online on kaggle ( i used the orders file only). Other related files in the dataset (e.g., customers, payments, shipments) likely contain additional information that would improve the accuracy of the model.
 
 WHAT I LEARNED FROM THIS
 
-- Using limited features can signiicantly reduce the models accuracy
+- Using limited features can significantly reduce the models accuracy
 
 - Model accuracy is not always the main goal - understanding data relationships is just as important
 
